@@ -2,7 +2,7 @@
 
 >> This program is just a template for sending Email based on Event 
 
-so this application is track the Battery of my pc when it decrease to 50 it just send Email with json file contains 
+so this application is tracking the Battery of  pc when it decrease under 50 it just send an Email with json file contains some info : 
 
 - Battery 
 
